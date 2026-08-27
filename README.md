@@ -91,7 +91,7 @@ The following table lists dedicated open-source projects for payment infrastruct
 
 All projects are sorted descending by **GitHub Star Count** with direct links to their stargazers page.
 
-| Repository | GitHub Stars | Primary Language | Description & Key Features |
+| Repository | GitHub_Stars | Primary Language | Description & Key Features |
 | :--- | :--- | :--- | :--- |
 | [redis/redis](https://github.com/redis/redis) | [![Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers) | C | In-memory key-value data structure store used extensively in real-time payments for idempotency locking, sub-millisecond account balance caching, rate-limiting, and distributed session states. |
 | [apache/kafka](https://github.com/apache/kafka) | [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) | Java / Scala | Distributed event streaming platform providing partitioned, fault-tolerant, high-throughput message logs for real-time payment events, audit streams, and real-time fraud monitoring. |
