@@ -121,6 +121,8 @@ All projects are sorted descending by **GitHub Star Count** with direct links to
 | [openfednow/openfednow](https://github.com/openfednow/openfednow) | [![Stars](https://img.shields.io/github/stars/openfednow/openfednow?style=social&color=white)](https://github.com/openfednow/openfednow/stargazers) | Go | Open-source middleware architecture connecting legacy core banking to FedNow and RTP rails with shadow ledgering, fraud pre-screening, and adapters. |
 | [moov-io/accounts](https://github.com/moov-io/accounts) | [![Stars](https://img.shields.io/github/stars/moov-io/accounts?style=social&color=white)](https://github.com/moov-io/accounts/stargazers) | Go | Open-source bank account modeling, balances, and multi-currency ledger primitives within the Moov financial stack ecosystem. |
 | [moov-io/fedwire20022](https://github.com/moov-io/fedwire20022) | [![Stars](https://img.shields.io/github/stars/moov-io/fedwire20022?style=social&color=white)](https://github.com/moov-io/fedwire20022/stargazers) | Go | Open-source Go implementation of ISO 20022 message schemas for the Federal Reserve Fedwire Funds Service transition. |
+| [digbijoylabs/anatomy-of-a-payment](https://github.com/digbijoylabs/anatomy-of-a-payment) | [![Stars](https://img.shields.io/github/stars/digbijoylabs/anatomy-of-a-payment?style=social&color=white)](https://github.com/digbijoylabs/anatomy-of-a-payment/stargazers) | HTML | [Interactive Apache-2.0 payment-rail workbench](https://digbijoylabs.github.io/anatomy-of-a-payment/) and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) on authorization, clearing, settlement finality, ISO 20022, and double-entry ledger invariants. |
+
 
 ---
 
